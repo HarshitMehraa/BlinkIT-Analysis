@@ -6,7 +6,9 @@
 **Tech Stack**
 
 • 📊 **Power BI Desktop** – Data Visualization platform used for report creation.
+
 • 📂 **Power Query** – Data transformation platform for cleaning, reshaping and preparing the data.
+
 • 🧠 **DAX (Data Analysis Expressions)** – Used for calculated measures/Columns.
 
 **Features / Highlights**
